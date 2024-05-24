@@ -41,9 +41,9 @@ def main():
     #get user input of cities
     print("Welcome to Distance Mapper...") 
     pointA = input("Please enter the name of the first city/town...")
-    print("pointA is : %s",pointA)
+    print("pointA is : ",pointA)
     pointB = input("Please enter the name of the second city..")
-    print("pointB is : %s",pointB)
+    print("pointB is : ",pointB)
 
     #maybe add an API call to check if user input cities are valid? then loop for user input whilst invalid
 
