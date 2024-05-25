@@ -1,5 +1,5 @@
 '''
-Calculate the distance between you Cities
+Calculate the distance between two Cities
 Auth - Andrew Morrison
 '''
 
