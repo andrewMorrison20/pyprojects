@@ -1,5 +1,5 @@
 '''
-Merge Sort Algortihm
+Merge Sort Algorithm
 Author Andrew Morrison
 '''
 
